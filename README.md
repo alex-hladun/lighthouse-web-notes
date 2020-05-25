@@ -1,3 +1,5 @@
 # Alex's Notes
 
-### Day 1
+## Summary 
+
+This repository contains notes taken by [Alex](https://github.com/alex-hladun/) during the Lighthouse Labs Web Development Bootcamp.
